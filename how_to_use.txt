@@ -1,0 +1,8 @@
+STEP1：将压缩包解压缩后，将所有文件和图片放入根目录下
+
+STEP2：打开Anaconda Prompt
+
+STEP3：在根目录下运行以下代码：python run.py --path=Warrioers_Cavaliers.json --event=33 （在报告中给出了可以更换的event数值）
+
+STEP4：打开根目录，发现一个新文件：Warrioss vs Cavaliers Quarter1 即为保存好的视频
+
